@@ -59,6 +59,6 @@ Built a dashboard system to monitor and analyze tourism data in Central Jakarta,
 ---
 
 ## Connect
-* **LinkedIn:** [Arya Nur Aditya](linkedin.com/in/aryanuraditya)
+* **LinkedIn:** [Arya Nur Aditya](https://www.linkedin.com/in/aryanuraditya)
 * **Portfolio:** [My Web Portfolio](https://arya-aditya.netlify.app/)
 * **Email:** [aryaaditya2222@gmail.com]
